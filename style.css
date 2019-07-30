@@ -30,19 +30,20 @@ article {
   color: gray;
 }
 
-figure {
+#img-div {
   padding: 6px;
   background-color: white;
   border-radius: 5px;
 }
 
-figcaption {
+#img-caption {
   font-size: 0.9em;
 }
 
-img {
+#image {
   max-width: 100%;
   height: auto;
+  display: block;
 }
 
 #timeline {
